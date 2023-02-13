@@ -1,1 +1,1 @@
-Hello, World script
+hELLO, World readme
